@@ -4,12 +4,12 @@ Finite--Element Method (FEM) has been implemented to solve nonlinear Poisson equ
 
 <div class="row">
   <div class="column">
-    <img src="img/geo.png" alt="Simulation Domain" style="width:100%">
+    <img src="img/geo.png" alt="Simulation Domain" style="width:30%">
   </div>
   <div class="column">
-    <img src="img/pot.png" alt="Accurate Results" style="width:100%"> 
+    <img src="img/pot.png" alt="Accurate Results" style="width:30%"> 
   </div>
   <div class="column">
-    <img src="img/error.png" alt="Quadratic Convergence" style="width:100%"> 
+    <img src="img/error.png" alt="Quadratic Convergence" style="width:30%"> 
   </div>
 </div>
